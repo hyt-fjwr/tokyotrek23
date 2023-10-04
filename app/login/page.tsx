@@ -23,8 +23,7 @@ export default function Login() {
           <polyline points="15 18 9 12 15 6" />
         </svg>{' '}
         Back
-      </Link>
-
+      </Link> 
       <form
         className="flex-1 flex flex-col w-full justify-center gap-2 text-foreground"
         action="/auth/sign-in"
